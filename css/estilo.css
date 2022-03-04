@@ -474,8 +474,8 @@ align-items: center;
 }
 
 .img-fluid2{
-	max-width:60%;
-	height:60%;
+	max-width:40%;
+	height:40%;
 	padding: 10px;
 	align-self:center!important;
 }   /* altera quando estano celular*/
